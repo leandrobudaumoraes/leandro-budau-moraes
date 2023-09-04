@@ -18,4 +18,4 @@ Criar um repositório no github com o seu nome completo separado por traço.
  ## 3) Criar uma página no seu repositório local
  Crie um arquivo em seu repositório local com o nome **index.html**
 
- ## 4) Este arquivo deverá ter a estrutura definida no arquivo [arquivo](leandro_budau_moraes.html)
+ ## 4) Este arquivo deverá ter a estrutura definida no arquivo [arquivo](leandro-budau-moraes.pdf)
