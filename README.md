@@ -25,7 +25,7 @@ Criar um repositório no github com o seu nome completo separado por traço.
   - Executar o push deste conteúdo ao github
 
  ## 4) Modificar o arquivo index.html :three: pontos
- Este arquivo deverá ser modificado para que seu estrutura seja igual ao documento de [exemplo](leandro-budau-moraes.pdf).
+ Este arquivo deverá ser modificado para que seu estrutura seja igual ao documento de [exemplo](checkpoint_1.pdf).
  A ideia é substituir as informaçoes textuais pela sua própria.
 
  ## 5) Encaminhar conteúdo modificado ao repositório remoto. :two: ponto
